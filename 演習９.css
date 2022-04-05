@@ -36,21 +36,21 @@ main {
 
 .image1 {
   height: 150px;
-  background-image: url(演習９img/flow01.png);
+  background-image: url(演習9img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .image2 {
   height: 150px;
-  background-image: url(演習９img/flow02.png);
+  background-image: url(演習9img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .image3 {
   height: 150px;
-  background-image: url(演習９img/flow03.png);
+  background-image: url(演習9img/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -68,4 +68,3 @@ footer {
   height: 50px;
   background-color: #aaaaaa;
 }
-
