@@ -7,7 +7,7 @@
 .main1 {
   width: 100%;
   height: 200px;
-  background-image: url(img/box1.jpg);
+  background-image: url(演習６img/box1.jpg);
   background-position: center;
   background-size: cover;
   padding: 0 auto;
@@ -15,7 +15,7 @@
 .main2 {
   width: 100%;
   height: 200px;
-  background-image: url(img/box2.jpg);
+  background-image: url(演習６img/box2.jpg);
   background-position: center;
   background-size: cover;
   padding: 0 auto;
@@ -23,7 +23,7 @@
 .main3 {
   width: 100%;
   height: 200px;
-  background-image: url(img/box3.jpg);
+  background-image: url(演習６img/box3.jpg);
   background-position: center;
   background-size: cover;
   padding: 0 auto;
@@ -32,7 +32,7 @@
 .main4 {
   width: 100%;
   height: 200px;
-  background-image: url(img/box4.jpg);
+  background-image: url(演習６img/box4.jpg);
   background-position: center;
   background-size: cover;
   padding: 0 auto;
